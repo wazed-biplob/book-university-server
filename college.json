@@ -1,0 +1,31 @@
+[
+  {
+    "CollegeName": "ABC University",
+    "AdmissionDate": "2023-09-01",
+    "Events": [
+      "Freshers' Welcome",
+      "Annual Cultural Fest",
+      "Science Exhibition"
+    ],
+    "ResearchHistory": "ABC University has a strong research history, with groundbreaking studies in various fields.",
+    "Sports": ["Football", "Basketball", "Swimming", "Cricket"]
+  },
+  {
+    "CollegeName": "XYZ College",
+    "AdmissionDate": "2023-08-15",
+    "Events": ["Orientation Day", "Tech Fest", "Literary Week"],
+    "ResearchHistory": "XYZ College is known for its innovative research projects and collaborations with industry.",
+    "Sports": ["Volleyball", "Badminton", "Table Tennis", "Athletics"]
+  },
+  {
+    "CollegeName": "PQR Institute",
+    "AdmissionDate": "2023-07-20",
+    "Events": [
+      "Annual Sports Meet",
+      "Cultural Extravaganza",
+      "Science Symposium"
+    ],
+    "ResearchHistory": "PQR Institute has made significant contributions to cutting-edge research in technology and engineering.",
+    "Sports": ["Hockey", "Tennis", "Chess", "Kabaddi"]
+  }
+]
